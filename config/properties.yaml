@@ -1,0 +1,19 @@
+webhook-url: https://hooks.slack.com/services/...............
+jira-url: https://mercadolibre.atlassian.net/jira/software/projects/..........
+meet-url: https://meet.google.com/.........
+days:
+  Monday:
+    presenter: {SLACK-USER-ID}
+    alternate: {SLACK-USER-ID}
+  Tuesday:
+    presenter: {SLACK-USER-ID}
+    alternate: {SLACK-USER-ID}
+  Wednesday:
+    presenter: {SLACK-USER-ID}
+    alternate: {SLACK-USER-ID}
+  Thursday:
+    presenter: {SLACK-USER-ID}
+    alternate: {SLACK-USER-ID}
+  Friday:
+    presenter: {SLACK-USER-ID}
+    alternate: {SLACK-USER-ID}
